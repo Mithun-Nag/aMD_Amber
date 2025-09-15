@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------
+Warning: Lmod is not configured. The default ACCRE software stack will be loaded automatically.
+
+Tip: To avoid this warning in the future, run the command:
+      setup_accre_software_stack
+
+For convenience, consider adding the following line to your .bashrc file:
+      setup_accre_software_stack
+
+For more details, please visit the documentation at:
+      https://help.accre.vanderbilt.edu/index.php?title=Software_Stack
+-----------------------------------------------------------------------------------------------------
