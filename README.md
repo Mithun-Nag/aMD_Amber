@@ -66,3 +66,24 @@ Full theoretical background and parameter selection guidelines:
 - `prod1.in.start` / `prod1.in` – aMD production input files  
 
 Use these to launch long-timescale aMD runs and collect enhanced sampling data for analysis.
+
+
+        🚀🚀🚀  ACCELERATED MD LAUNCH  🚀🚀🚀
+
+           |
+           |
+          / \
+         / _ \
+        |.o '.|
+        |'._.'|   BOOSTING THROUGH BARRIERS!
+        |     |   100 ns CHUNK ➜ 1 μs MISSION
+       ,'|  |  |`.
+      /  |  |  |  \
+      |,-'--|--'-.|
+
+      ⚡ Engines ON — Potential Landscape Flattened ⚡
+      💨 Dihedral Barriers? GONE. Minima? ESCAPED. 💨
+      🌌 Full Throttle Sampling — LIGHTSPEED MODE ENGAGED 🌌
+
+             ✨ Happy Simulation! ✨
+
